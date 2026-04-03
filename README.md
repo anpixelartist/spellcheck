@@ -114,7 +114,7 @@ spell_checker/
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 | Setting | Default | Description |
 |---------|---------|-------------|
